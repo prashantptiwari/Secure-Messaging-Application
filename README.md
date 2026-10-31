@@ -56,8 +56,7 @@ Installation and Setup
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Secure-Messaging-App.git
-```
+git clone (https://github.com/prashantptiwari/Secure-Messaging-Application.git)
 
 2. Open the Project Folder
 
